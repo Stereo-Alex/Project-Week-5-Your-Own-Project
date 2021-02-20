@@ -1,2 +1,0 @@
-Article: https://alex-jurado.medium.com/brief-exploration-on-world-happiness-a9ee5dc061ca
-Heroku App: https://interactive-dash-ironhack.herokuapp.com/

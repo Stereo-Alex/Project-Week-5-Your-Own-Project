@@ -30,7 +30,7 @@ Finally wrote a medium article where i went in detail with the questions and dat
 ## Organization
 Set up a trello for the initial steps and then followed the natural work flow
 
-The repository is simple, inside of the your-project folder you will find the workspace used for creating the interactive dashboard (as well as a copy so the code can be acessed without messing with the app), a folder with all the datasets, a txt file with links to the app and medium article and a folder with the Heroku app and link to its own repository 
+The repository is simple, inside of the your-project folder you will find the workspace used for creating the interactive dashboard (as well as a copy so the code can be acessed without messing with the app), a folder with all the datasets and a folder with the Heroku app and link to its own repository 
 
 ## Links
 
