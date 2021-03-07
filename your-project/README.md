@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Brief Exploration on happiness 
 *Alex Jurado*
 
 *Data Analysis, January 2021 Ironhack *
